@@ -2,8 +2,6 @@
 
 I build **AI agents and automation** — autonomous systems that research, decide, and act, plus tools that put LLMs to work on real problems. I ship end-to-end: Claude/OpenAI pipelines, Next.js frontends, mobile apps, and GitHub-Actions automation.
 
-🔭 Currently open to **AI engineering** roles.
-
 ## 🚀 Featured projects
 
 - **[deal-desk](https://github.com/Lindadao92/deal-desk)** — Autonomous inbound-lead agent. Claude researches, scores, and executes outreach end-to-end (CRM, email, calendar, Slack) with no human in the loop.
